@@ -26,3 +26,6 @@ For a CPU that does not have the ROR bug, you will see this: (Post May/June 1976
 
 For a CPU that has the ROR bug, you will see this: (Before May/June 1976 chips)
 ![](https://github.com/misterblack1/6502_ror_bug_test/blob/main/Screenshot%202022-10-01%20125620.png?raw=true)
+
+To read more about the ROR bug:
+https://www.pagetable.com/?p=406
